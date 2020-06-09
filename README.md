@@ -11,9 +11,13 @@
 
 | Command name | Short cut |
 | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 |
-| Row 2 Column 1 | Row 2 Column 2 |
-| Row 3 Column 1 | Row 3 Column 2 |
+| Search | / |
+| Insert new line in edit mode before | O |
+| Insert new line in edit mode after | o |
+| Cursor to start of document | gg |
+| go to line <NUMBER>  | <NUMBER> gg |
+| Cursor to the end of document | G |
+| Move to bottom visible line (LOW)  | L |
 
 # Git
 ------------------------------------------------
