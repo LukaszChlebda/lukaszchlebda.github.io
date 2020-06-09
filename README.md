@@ -8,6 +8,43 @@
 ## 4. Intelij Idea
 ## 5. [Emoji](#emoji)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Emoji
 
 * [Emoji](emoji.md#emoji);
