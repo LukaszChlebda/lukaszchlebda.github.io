@@ -1,71 +1,10 @@
-## 1. Env Setup
 ## 1. [Env Setup](#env-setup)
-## 1. [Style Text](#style-text)
-## 2. Vim
-
-## 3. Git
-
-## 4. Intelij Idea
-## 5. [Emoji](#emoji)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-__________________________________________________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Emoji
+## 2. [Vim](vim)
+## 3. [Git](git)
+## 4. [Intelij Idea](intelij-idea)
 
 # Env Setup
+# Vim
+# Git
+# Intelij Idea
 
-# Style Text
