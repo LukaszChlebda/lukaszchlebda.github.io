@@ -1,5 +1,5 @@
 ## 1. Env Setup
-## 1. [Env Setup](#env_setup)
+## 1. [Env Setup](#env-setup)
 ## 1. [Style Text](#style-text)
 ## 2. Vim
 
