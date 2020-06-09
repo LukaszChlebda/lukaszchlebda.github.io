@@ -1,11 +1,9 @@
-<html>
-<head>
-  <title>Title of the document</title>
-</head>
+<h2>Products</h2>
 
-<body>
-  <h1>This is a heading</h1>
-  <p>This is a paragraph.</p>
-</body>
+<div *ngFor="let product of products">
 
-</html>
+  <h3>
+      {{ product.name }}
+  </h3>
+
+</div>
