@@ -5,12 +5,19 @@
 ## 4. [Intelij Idea](#intelij-idea)
 
 # Env Setup
+------------------------------------------------
+
 # Vim
-# Git
-# Intelij Idea
 
 | Command name | Short cut |
 | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 |
 | Row 2 Column 1 | Row 2 Column 2 |
 | Row 3 Column 1 | Row 3 Column 2 |
+
+# Git
+------------------------------------------------
+
+# Intelij Idea
+------------------------------------------------
+
