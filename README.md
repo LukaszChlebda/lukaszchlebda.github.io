@@ -1,5 +1,6 @@
 ## 1. Env Setup
-
+## 1. [Env Setup](#env_setup)
+- [Style Text](#style-text)
 ## 2. Vim
 
 ## 3. Git
@@ -10,3 +11,7 @@
 # Emoji
 
 * [Emoji](emoji.md#emoji);
+
+# Env Setup
+
+# Style Text
