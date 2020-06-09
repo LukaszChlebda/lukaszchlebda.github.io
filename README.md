@@ -1,5 +1,3 @@
-Getting started with Markdown
-=============================
 
 ## 1. [Env Setup](#env-setup)
 ## 2. [Vim](#vim)
