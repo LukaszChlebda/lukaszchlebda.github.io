@@ -5,8 +5,7 @@
 ## 3. Git
 
 ## 4. Intelij Idea
-
-- [Emoji](#emoji)
+## 5. [Emoji](#emoji)
 
 ## Welcome to GitHub Pages
 
