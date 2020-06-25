@@ -41,6 +41,14 @@ After gradle init Gradle structure looks like this:
 ├── gradlew.bat. <- 5 
 └── settings.gradle. <- 6
 ```
+
+1. Gradle build script for configuring the current project
+2. Gradle Wrapper executable JAR
+3. Gradle Wrapper configuration properties
+4. Gradle Wrapper script for Unix-based systems
+5. Gradle Wrapper script for Windows
+6. Gradle settings script for configuring the Gradle build
+
 # Git
 ------------------------------------------------
 
