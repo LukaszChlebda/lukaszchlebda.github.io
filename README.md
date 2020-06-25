@@ -32,14 +32,14 @@ Configure gradle in new project:
 ```
 After gradle init Gradle structure looks like this:
 ```
-├── build.gradle  ##1
+├── build.gradle  <- 1
 ├── gradle 
 │   └── wrapper
-│       ├── gradle-wrapper.jar  ##2
-│       └── gradle-wrapper.properties ##3 
-├── gradlew  ##4
-├── gradlew.bat ##5 
-└── settings.gradle ##6
+│       ├── gradle-wrapper.jar. <- 2
+│       └── gradle-wrapper.properties. <- 3 
+├── gradlew. <- 4
+├── gradlew.bat. <- 5 
+└── settings.gradle. <- 6
 ```
 # Git
 ------------------------------------------------
