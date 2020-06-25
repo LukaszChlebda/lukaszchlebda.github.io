@@ -1,8 +1,9 @@
 
 ## 1. [Env Setup](#env-setup)
 ## 2. [Vim](#vim)
-## 3. [Git](#git)
-## 4. [Intelij Idea](#intelij-idea)
+## 3. [Gradle](#gradle) 
+## 4. [Git](#git)
+## 5. [Intelij Idea](#intelij-idea)
 
 # Env Setup
 ------------------------------------------------
@@ -18,6 +19,19 @@
 | go to line <NUMBER>  | <NUMBER> gg |
 | Cursor to the end of document | G |
 | Move to bottom visible line (LOW)  | L |
+
+# Gradle
+
+Installation in macOs: 
+
+/**
+  brew install gradle
+**/
+
+Configure gradle in new project: 
+/**
+  gradle init
+**/
 
 # Git
 ------------------------------------------------
