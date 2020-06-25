@@ -4,6 +4,12 @@
 ## 3. [Gradle](#gradle) 
 ## 4. [Git](#git)
 ## 5. [Intelij Idea](#intelij-idea)
+## 6. [GCP](#gcp)
+## 7. [Docker](#docker)
+## 8. [Kubernetes k8s](#kubernetes)
+## 9. [Jenkins](#jenkins)
+## 10. [Spring](#spring)
+## 11. [Kafka](#kafka)
 
 # Env Setup
 ------------------------------------------------
