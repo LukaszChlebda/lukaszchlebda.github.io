@@ -22,7 +22,7 @@
 
 # Gradle
 
-Installation in macOs: 
+Installation on macOs: 
 ```
   brew install gradle
 ```
@@ -32,14 +32,14 @@ Configure gradle in new project:
 ```
 After gradle init Gradle structure looks like this:
 ```
-├── build.gradle  
-├── gradle
+├── build.gradle  ##1
+├── gradle 
 │   └── wrapper
-│       ├── gradle-wrapper.jar  
-│       └── gradle-wrapper.properties  
-├── gradlew  
-├── gradlew.bat  
-└── settings.gradle 
+│       ├── gradle-wrapper.jar  ##2
+│       └── gradle-wrapper.properties ##3 
+├── gradlew  ##4
+├── gradlew.bat ##5 
+└── settings.gradle ##6
 ```
 # Git
 ------------------------------------------------
