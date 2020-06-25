@@ -24,14 +24,15 @@
 
 Installation in macOs: 
 
-/**
+```
   brew install gradle
-**/
+```
 
 Configure gradle in new project: 
-/**
+
+```
   gradle init
-**/
+```
 
 # Git
 ------------------------------------------------
