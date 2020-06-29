@@ -61,3 +61,4 @@ After gradle init Gradle structure looks like this:
 # Intelij Idea
 ------------------------------------------------
 
+<a href="https://stackoverflow.com/questions/3492153/markdown-open-a-new-window-link" target="_blank">example</a>
