@@ -1,15 +1,17 @@
 
 ## 1. [Env Setup](#env-setup)
-## 2. [Vim](#vim)
-## 3. [Gradle](#gradle) 
-## 4. [Git](#git)
-## 5. [Intelij Idea](#intelij-idea)
-## 6. [GCP](#gcp)
-## 7. [Docker](#docker)
-## 8. [Kubernetes k8s](#kubernetes)
-## 9. [Jenkins](#jenkins)
-## 10. [Spring](#spring)
-## 11. [Kafka](#kafka)
+## 2. [Java core](#java-core)
+## 3. [Java concurrency](#java-concurrency)
+## 4. [Vim](#vim)
+## 5. [Gradle](#gradle) 
+## 6. [Git](#git)
+## 7. [Intelij Idea](#intelij-idea)
+## 8. [GCP](#gcp)
+## 9. [Docker](#docker)
+## 10. [Kubernetes k8s](#kubernetes)
+## 11. [Jenkins](#jenkins)
+## 12. [Spring](#spring)
+## 13. [Kafka](#kafka)
 
 # Env Setup
 ------------------------------------------------
